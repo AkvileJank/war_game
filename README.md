@@ -18,24 +18,22 @@ Create a function to deal the cards to the two players (can use slicing to split
 
 Create a function to compare the cards that the two players have played
 
-!Create a function to handle the case where there is a tie. In this case, the players play another round and add the new cards to the ones they have already played.
+Create a function to handle the case where there is a tie. In this case, the players play another round and add the new cards to the ones they have already played.
 
-!Create a function to update amount of cards the two players have after each round.
+Create a function to update amount of cards the two players have after each round.
 
-!Create a function to check if the game is over. The game is over when player has no cards left, the other player is winner
+Create a function to check if the game is over. The game is over when player has no cards left, the other player is winner
 
-!Create a function to play the game. This function will call the other functions in the correct order and keep track of the game state.
+Create a function to play the game. This function will call the other functions in the correct order and keep track of the game state.
 
-!Add necessary user interface or input/output functionality to your program:
+Add necessary user interface or input/output functionality to your program:
 
-	*Display the game's rules at the beginning of the game (plus total amount of cards in 	deck)
+	Display the game's rules at the beginning of the game (plus total amount of cards in 	deck)
 
-	*Prompt the user to enter their name or choose a player name at the beginning of the game.
+	Prompt the user to enter their name or choose a player name at the beginning of the game.
 
 	Display the cards that each player plays during a round of the game.
 	
-	*Display the score of each player after each round of the game (amount of cards in their decks).
-
-	*Prompt the user to play another round or end the game after each round.
+	Display the score of each player after each round of the game (amount of cards in their decks).
 
 	*Display a message when the game is over and declare the winner.
